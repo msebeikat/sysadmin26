@@ -22,7 +22,7 @@ Demo data consists of random subsamples of the [miRBase](https://www.mirbase.org
 ## Solutions
 1.
 2.
-3.
+3. kleinste: "00_02", groesste: "00_09"
 4.
 5.
 6.
