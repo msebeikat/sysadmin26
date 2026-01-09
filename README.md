@@ -22,3 +22,4 @@ Demo data consists of random subsamples of the [miRBase](https://www.mirbase.org
 ## Participants
 
 - Markus - [iimog](https://github.com/iimog)
+- Merlin - [msebeikat](https://github.com/msebeikat)
